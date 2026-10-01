@@ -1,3 +1,5 @@
+//TODO: MUSIMY DODAC BRAKUJACE KLASY!!!
+
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
