@@ -1,5 +1,6 @@
 //TODO: MUSIMY DODAC BRAKUJACE KLASY!!!
 
+//ok doddam 'Adder', s35955 doda "subtractor'
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
